@@ -1,0 +1,5 @@
+framework module ngspice {
+    requires c99
+    umbrella header "ngspice.h"
+    export *
+}

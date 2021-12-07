@@ -49,6 +49,7 @@ cp $PROJECT_DIR/build/install_root/include/ngspice/sharedspice.h Headers/
 cp $PROJECT_DIR/ngspice.h Headers/
 cp $PROJECT_DIR/module.modulemap Modules/
 # TODO: regenerate on the host machine
+# can use info from LC_BUILD_VERSION to fill out e.g. platform, SDK, min version
 cp $PROJECT_DIR/Info.plist Resources/
 cd ..
 ln -s A Current

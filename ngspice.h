@@ -1,8 +1,5 @@
 //
 //  ngspice.h
-//  ngspice
-//
-//  Created by Andrew Morrow on 11/27/21.
 //
 
 #ifndef ngspice_h
